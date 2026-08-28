@@ -2,11 +2,11 @@
 <h3 align="center">Ingeniero de Sistemas | Software Developer & Data Analyst</h3>
 
 <p align="center">
-  ¡Hola! Soy un desarrollador radicado en Bogotá, especializado en optimizar procesos, arquitecturas backend y análisis de datos en entornos empresariales empresariales. 👽
+  ¡Hola! Soy un desarrollador radicado en Bogotá, especializado en optimizar procesos, arquitecturas backend y análisis de datos en entornos empresariales. 👽
 </p>
 
 ### 🔭 Sobre mí:
-- 🏢 Actualmente trabajo gestionando automatizaciones, migraciones de backend (como transiciones a **Node.js**) y análisis de datos para **Carvajal S.A.**
+- 🏢 Actualmente trabajo gestionando automatizaciones, migraciones de backend (como transiciones a **Node.js**) y análisis de datos para **Carvajal S.A.**, tambien desarrollos en **.NET**.
 - ⚙️ Trabajo frecuentemente con integraciones de APIs, scripts en **Python/PowerShell** y monitoreo avanzado con herramientas como **Splunk** y **Athento**.
 - 🎓 Egresado como **Ingeniero de Sistemas** de la UNAD y **Especialista en seguridad informatica**.
 - 🏍️ Fuera del código: Me apasiona hacer rutas en mi moto (Suzuki GSX-S150), entrenar para correr medias maratones, y pasar tiempo con mi familia y mis mascotas (¡un saludo a mi perro Kion y mi gato!). 🐈
