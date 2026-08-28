@@ -8,7 +8,7 @@
 ### 🔭 Sobre mí:
 - 🏢 Actualmente trabajo gestionando automatizaciones, migraciones de backend (como transiciones a **Node.js**) y análisis de datos para **Carvajal S.A.**
 - ⚙️ Trabajo frecuentemente con integraciones de APIs, scripts en **Python/PowerShell** y monitoreo avanzado con herramientas como **Splunk** y **Athento**.
-- 🎓 Egresado como **Ingeniero de Sistemas** de la UNAD.
+- 🎓 Egresado como **Ingeniero de Sistemas** de la UNAD y **Especialista en seguridad informatica**.
 - 🏍️ Fuera del código: Me apasiona hacer rutas en mi moto (Suzuki GSX-S150), entrenar para correr medias maratones, y pasar tiempo con mi familia y mis mascotas (¡un saludo a mi perro Kion y mis gatos!). 🐈
 - 📫 How to reach me: **esanchezmah@gmail.com**
 
